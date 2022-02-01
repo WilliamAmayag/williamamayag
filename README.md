@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @williamamayag
 - 👀 I'm interested in programming and network administrator... I'm learning.
-- 💞️ i have many plans for my future, soon you will know more about me.
+- 💞️ I have many plans for my future, soon you will know more about me.
 - 📫 How to contact me...
   
   + <p>Instagram: <a href="https://www.instagram.com/william_amayag/" title="Título">@william_amayag</a></p>
